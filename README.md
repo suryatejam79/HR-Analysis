@@ -1,69 +1,66 @@
-# 💼 HR Analysis Dashboard – Power BI Project
+# HR Analysis Dashboard – Power BI Project
 
-This repository contains a comprehensive **HR Analysis Dashboard** built using **Power BI**, designed to provide insightful analytics for workforce performance, employee engagement, promotions, training, and more. The main file in this project is:
+This repository contains a comprehensive HR Analysis Dashboard built using Power BI, designed to provide insightful analytics for workforce performance, employee engagement, promotions, training, and more. The main file in this project is:
 
-📂 `HR_Analysis_Report.pbix`
-
----
-
-## 📝 Project Description
-
-The goal of this dashboard is to enable HR professionals and business leaders to monitor, analyze, and make data-driven decisions about employee performance and organizational health.
-
-Using **data cleaning and transformation techniques** in **Excel Power Query**, the raw data was cleansed, standardized, and made report-ready. Key DAX formulas were used to calculate custom KPIs, and advanced Power BI visualizations helped in answering critical HR questions with clarity and impact.
+**HR_Analysis_Report.pbix**
 
 ---
 
-## ❓ Key Questions Answered
+## Project Description
 
-This dashboard is designed to address several important business questions:
+The goal of this dashboard is to enable HR professionals and business leaders to monitor, analyze, and make data-backed decisions regarding employee performance and organizational effectiveness.
 
-- 👥 What is the total workforce size and gender distribution?
-- 📈 How many employees were promoted, and what is the promotion rate?
-- 🎯 How do departments compare in terms of performance and task completion?
-- ⏰ What is the average attendance rate across departments?
-- 💬 How are employees rated across different job roles?
-- 👩‍🏫 What are the average training hours by department?
-- 📊 Which departments have the highest or lowest employee engagement?
+Using data cleaning and transformation techniques in Excel Power Query, the raw dataset was standardized and made analysis-ready. Key DAX formulas were applied to calculate meaningful KPIs, and Power BI visuals were used to present insights in an interactive, user-friendly format.
 
 ---
 
-## 📌 Features & KPIs Visualized
+## Key Business Questions Answered
 
-- Total Employees  
-- Promotion Count and Rate  
-- Employee Rating (Average)  
-- Attendance and Performance Averages  
-- Gender Ratio Visualization  
+This dashboard is designed to address several essential HR analytics questions:
+
+- What is the total number of employees and how are they distributed by department and gender?
+- How many employees have been promoted, and what is the current promotion rate?
+- Which departments show higher average performance, attendance, and task completion?
+- How do employee ratings vary across different job roles?
+- What are the average training hours across departments?
+- Is there a relationship between attendance rate and promotion?
+- What insights can be drawn to support HR planning and decision-making?
+
+---
+
+## Features and KPIs Visualized
+
+- Total Employee Count  
+- Promotion Count and Promotion Rate  
+- Average Employee Rating  
+- Department-wise Attendance and Performance Scores  
+- Gender Distribution  
 - Ratings by Job Role  
-- Department-wise Task Completion Rate  
-- Promotion vs Attendance Trend  
-- Training Hours by Department  
+- Task Completion by Department  
+- Promotion vs Attendance Analysis  
+- Average Training Hours
 
 ---
 
-## 🛠️ Skills & Tools Used
+## Tools and Skills Used
 
-- **Power BI** – For data modeling, interactive dashboards, KPI tracking  
-- **DAX** – Used to create calculated columns, measures, and business logic  
-- **Excel Power Query** – For data cleaning, transformation, and preparing datasets  
-- **Data Analysis & Visualization** – Identified trends, patterns, and insights  
-- **Human Resource Analytics** – Contextualized the dashboard with real HR scenarios  
-
----
-
-## 📂 File Included
-
-- `HR_Analysis_Report.pbix` – Main Power BI file with all visuals, measures, and data logic  
-- `README.md` – Documentation file explaining the dashboard and insights
+- Power BI – Dashboard creation, interactive filtering, custom visuals  
+- DAX – Calculation of custom measures and KPIs  
+- Excel Power Query – Data cleaning, formatting, and transformation  
+- Data Analysis and Visualization – Insight generation and trend identification  
+- HR Analytics – Focused on performance, engagement, and workforce management
 
 ---
 
-## 📣 For Hiring Managers
+## Files Included
 
-This project reflects a strong understanding of data analysis, reporting, and visualization in the context of HR operations. It showcases practical skills in Power BI, DAX, and Excel, combined with a problem-solving mindset.
-
-Please feel free to review the `.pbix` file and explore the report. Feedback and collaboration are welcome!
+- `HR_Analysis_Report.pbix` – Main Power BI dashboard file containing all visualizations and logic  
+- `README.md` – Documentation describing the project, features, and purpose
 
 ---
 
+## For Hiring Teams
+
+This project demonstrates practical expertise in transforming raw HR data into actionable insights. It highlights skills in Power BI development, DAX modeling, Excel-based data preparation, and analytical thinking applied to real-world HR scenarios.
+
+The report is available for download and review. Feedback and suggestions are welcome.
